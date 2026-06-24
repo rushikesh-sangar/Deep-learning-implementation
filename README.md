@@ -1,4 +1,3 @@
-```markdown
 # Deep Learning Implementation
 
 This repository contains Python implementations of core deep learning algorithms and neural network architectures with a strong focus on **practical coding examples** rather than heavy mathematical theory.
@@ -97,4 +96,3 @@ This repository is useful for:
 - Beginners in Python and Artificial Intelligence
 - Aspiring AI Engineers & Deep Learning Engineers
 - Data Scientists interested in Neural Networks
-```
