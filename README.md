@@ -27,15 +27,14 @@ This repository may include implementations related to:
 
 - Neural Network Fundamentals
 
-  - Artificial Neural Networks (ANN)
+  - Feedforward Neural Networks (FNN)
   - Forward Propagation
   - Backpropagation
   - Activation Functions
-  - Loss Functions
-
+  - Loss (Cost) Functions
+ 
 - Deep Learning Architectures
-
-  - Feedforward Neural Networks
+  - Artificial Neural Networks (ANN)
   - Convolutional Neural Networks (CNN)
   - Recurrent Neural Networks (RNN)
   - Long Short-Term Memory (LSTM)
